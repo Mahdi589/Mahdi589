@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mahdi589
+- 👀 I’m currently using python as my main programming language
+- 🌱 I’m currently learning flask
+- 💞️ I’m looking to collaborate on python related projects
+- 📫 How to reach me borgi.mahdi589@gmail.com
